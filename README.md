@@ -23,19 +23,6 @@ A stack explorada neste repositório cobre os fundamentos essenciais da Web Mode
 * **Automação:** Grunt/Gulp (Minificação de arquivos e compilação).
 * **Controle de Versão:** Git e GitHub Flow.
 
-## 📂 Estrutura do Código
-
-O repositório é organizado por módulos ou tópicos específicos:
-
-```text
-Ebac_curso_frontend/
-├── ajax/             # Exercícios de requisições assíncronas
-├── css/              # Fundamentos de estilização
-├── html/             # Estruturação semântica
-├── jquery/           # Plugins e interatividade
-├── js/               # Lógica de programação (Arrays, Loops, Objetos)
-└── exercicios/       # Desafios práticos de fixação
-
 ## 📦 Instalação e Execução
 Como este é um repositório de exercícios variados, a execução depende da pasta específica que você deseja testar.
 
@@ -49,3 +36,16 @@ Navegue até o módulo desejado:
 Bash
 
 cd Ebac_curso_frontend
+
+## 📂 Estrutura do Código
+
+O repositório é organizado por módulos ou tópicos específicos:
+
+```text
+Ebac_curso_frontend/
+├── ajax/             # Exercícios de requisições assíncronas
+├── css/              # Fundamentos de estilização
+├── html/             # Estruturação semântica
+├── jquery/           # Plugins e interatividade
+├── js/               # Lógica de programação (Arrays, Loops, Objetos)
+└── exercicios/       # Desafios práticos de fixação
