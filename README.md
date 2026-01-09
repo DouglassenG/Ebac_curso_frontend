@@ -14,10 +14,6 @@ Este repositório foi criado para centralizar e versionar o progresso de aprendi
 
 Ele resolve o desafio de manter um registro histórico da evolução técnica, permitindo revisitar soluções para problemas comuns (como validação de formulários, requisições AJAX e estruturação de layouts) e servindo como base de conhecimento para projetos futuros.
 
-## 🖼️ Demonstração Visual
-
-*(Espaço reservado para screenshots de exercícios visuais, como formulários estilizados ou animações feitas no curso)*
-
 ## 🛠️ Tecnologias Utilizadas
 
 A stack reflete a progressão do curso, partindo de tecnologias nativas para ferramentas de build modernas:
