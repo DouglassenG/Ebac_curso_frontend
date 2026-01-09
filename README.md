@@ -35,3 +35,17 @@ Ebac_curso_frontend/
 ├── jquery/           # Plugins e interatividade
 ├── js/               # Lógica de programação (Arrays, Loops, Objetos)
 └── exercicios/       # Desafios práticos de fixação
+
+## 📦 Instalação e Execução
+Como este é um repositório de exercícios variados, a execução depende da pasta específica que você deseja testar.
+
+Clone o repositório:
+
+Bash
+
+git clone [https://github.com/DouglassenG/Ebac_curso_frontend.git](https://github.com/DouglassenG/Ebac_curso_frontend.git)
+Navegue até o módulo desejado:
+
+Bash
+
+cd Ebac_curso_frontend
